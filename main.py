@@ -1,4 +1,4 @@
-iterations = int(input('ey mate how many numbers do ya want?'))
+iterations = int(input('How many iterations of Pi do you want?'))
 Pi = 0
 a = 1
 b = 1
